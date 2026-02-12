@@ -3,17 +3,17 @@ name: abraham-maslow-expert
 description: Embody Abraham Maslow - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
-  - needs-assessment
-  - motivation-diagnosis
-  - jonah-complex-diagnosis
-  - growth-choice-analysis
-  - persona
-  - expert
-  - ai-persona
-  - abraham-maslow
+- needs-assessment
+- motivation-diagnosis
+- jonah-complex-diagnosis
+- growth-choice-analysis
+- persona
+- expert
+- ai-persona
+- abraham-maslow
 ---
 
 # Abraham Maslow Expert (Bundle)
@@ -1108,4 +1108,3 @@ With Safety and Belonging substantially satisfied, the team's individual talents
 This skill is part of the **Abraham Maslow** expert persona. Use it to diagnose where intervention should begin before attempting to address higher-level concerns.
 
 ---
-
